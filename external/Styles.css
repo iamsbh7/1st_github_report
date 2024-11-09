@@ -7,3 +7,11 @@
     border-radius: 55px;
     margin: 20px;
 }
+#from{
+    border: 15px solid rgb(8, 8, 62);
+    border-radius: 30px;
+    padding: 20px;
+    margin: 20px;
+    background-color: aqua;
+    color: rgb(238, 128, 12);
+}
